@@ -1,0 +1,25 @@
+ html,
+ body,
+ .app {
+     height: 100vh;
+     background: #eee;
+     padding: 1em;
+ }
+
+ .login {
+     height: 100vh;
+     padding: 1em;
+     background-color: black;
+     background-image: url("..//..//../public/image/photo-1655635949384-f737c5133dfe.jpg");
+ }
+
+ .register {
+     height: 100vh;
+     padding: 1em;
+     background-color: white;
+     background-image: url("..//..//../public/image/6.jpg");
+     background-size: 100% 100vh;
+     background-repeat: no-repeat;
+ }
+
+ .content_register {}
